@@ -28,11 +28,11 @@
 ![image](https://user-images.githubusercontent.com/90416094/150705261-6eb65016-6df1-411d-bb73-1878473fcccf.png)
 
 As seen in the image above, the p-value of the linear model is 5.35e-11. This is smaller than the assumed significance level of 0.05%. The slope of the linear model is therefore not considered to be zero because the p-value is less than 0.05. This gives sufficient evidence to reject the null hypothesis.
+- ---
 
-- --
 ### 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
-
+The r-squared value for this linear model 0.7149. This predicts that approximately, 71% of  mpg predictions will be correct . it can be concluded therefore that this linear model predicts mpg of MechaCar prototypes effectively
+- ---
 ## Summary Statistics on Suspension Coils
 ### 1. Total summary statistics
 ![Total_summary statistics_df](https://user-images.githubusercontent.com/90416094/150705357-2b9cef19-5ab1-4623-b9a0-29aeda4ce097.png)
