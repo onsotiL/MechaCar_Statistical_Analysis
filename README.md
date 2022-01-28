@@ -37,6 +37,12 @@ The r-squared value for this linear model 0.7149. This predicts that approximate
 ### 1. Total summary statistics
 ![Total_summary statistics_df](https://user-images.githubusercontent.com/90416094/150705357-2b9cef19-5ab1-4623-b9a0-29aeda4ce097.png)
 
+- The image above depicts the mean, median, variance and Standard deviation for the suspension coil. The mean and median have a very small difference leading to the conclusion that dataset has a normal distribution. 
+
+- According to the summary, the variance is roughly 62 pounds, this is below the MechaCar suspension coils design specifications which states that the variance of the suspension coils must not exceed 100 pounds per inch. 
+
+- In conclusion therefore, the current manufacturing data meets the  design specification for all manufacturing lots in total and each lot individually 
+- --
 
 ### 2.  T-test on suspension coil
 ![One sample t-test](https://user-images.githubusercontent.com/90416094/150705472-fc38d243-8c7b-44de-985c-835aa608b51f.png)
