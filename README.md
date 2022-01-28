@@ -43,6 +43,7 @@ The r-squared value for this linear model 0.7149. This predicts that approximate
 
 - In conclusion therefore, the current manufacturing data meets the  design specification for all manufacturing lots in total and each lot individually 
 - --
+The T test results reveals that the p value for all the lots is 0.06028. This is above the assumed significant level of 0.05. Based on this information, there is no sufficient evidence to reject the null hypothesis the analysis. This deduction will lead us to conclude that the suspension coils dataset statistically represents the population mean.
 
 ### 2.  T-test on suspension coil
 ![One sample t-test](https://user-images.githubusercontent.com/90416094/150705472-fc38d243-8c7b-44de-985c-835aa608b51f.png)
@@ -61,7 +62,8 @@ The r-squared value for this linear model 0.7149. This predicts that approximate
 ### 5. T-test on suspension coil for Lot 3
 
 ![T-test  susp_coils for Lot 3](https://user-images.githubusercontent.com/90416094/150705674-e0018780-d909-49e9-89c1-25fe74562c79.png)
-
+- --
+## Study Design: MechaCar vs Competition.
 
 
 
