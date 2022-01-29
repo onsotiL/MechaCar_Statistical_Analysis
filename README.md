@@ -41,7 +41,7 @@ The r-squared value for this linear model 0.7149. This predicts that approximate
 
 - According to the summary, the variance is roughly 62 pounds, this is below the MechaCar suspension coils design specifications which states that the variance of the suspension coils must not exceed 100 pounds per inch. 
 
-- In conclusion therefore, the current manufacturing data meets the  design specification for all manufacturing lots in total and each lot individually 
+- In conclusion therefore, the current manufacturing data meets the design specification for all manufacturing lots in total and each lot individually 
 - --
 The T test results reveals that the p value for all the lots is 0.06028. This is above the assumed significant level of 0.05. Based on this information, there is no sufficient evidence to reject the null hypothesis the analysis. This deduction will lead us to conclude that the suspension coils dataset statistically represents the population mean.
 
@@ -64,6 +64,29 @@ The T test results reveals that the p value for all the lots is 0.06028. This is
 ![T-test  susp_coils for Lot 3](https://user-images.githubusercontent.com/90416094/150705674-e0018780-d909-49e9-89c1-25fe74562c79.png)
 - --
 ## Study Design: MechaCar vs Competition.
+#### 1. What metric or metrics are you going to test?
+To compare the performance of the MechaCar vehicles against performance of vehicles from other manufacturers, a statistical study was done using the following metrics: 
+
+- Fuel efficiency,
+- Carbon waste output.
+- Cost, 
+- Engine horsepower, 
+- Safety rating, 
+- Car safety Features
+
+The analysis will test these metrics in both the Mechacar and vehicles from other manufacturers to determine if there are any statistically significant differences 
+
+### 2. What is the null hypothesis or alternative hypothesis?
+
+- The null hypothesis: The analysis will show that the results don't vary significantly from the competition in these metrics
+- Alternative hypothesis: The analysis will show that compared to vehicles from other manufacturers, the MechaCar varies significantly in these metrics
+
+### 3. What statistical test would you use to test the hypothesis? And why?
+
+- The statistical test that will be used to test the hypothesis is a one-tailed t-tests. This will show whether the MechaCar has higher or lower results in these metrics compared to vehicles from other manufacturers. 
+.
+### 4. What data is needed to run the statistical test?
+- To run these statistical tests, we would need the values of all the metrics in the analysis including Fuel efficiency, Carbon waste output. Cost, Engine horsepower, Safety rating and car safety features from both the MechaCar and vehicles from other manufacturers.
 
 
 
