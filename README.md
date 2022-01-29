@@ -78,7 +78,7 @@ The analysis will test these metrics in both the Mechacar and vehicles from othe
 
 ### 2. What is the null hypothesis or alternative hypothesis?
 
-- The null hypothesis: The analysis will show that the results don't vary significantly from the competition in these metrics
+- The null hypothesis: The analysis will show that the results don't vary significantly from other manufacturers in these metrics
 - Alternative hypothesis: The analysis will show that compared to vehicles from other manufacturers, the MechaCar varies significantly in these metrics
 
 ### 3. What statistical test would you use to test the hypothesis? And why?
