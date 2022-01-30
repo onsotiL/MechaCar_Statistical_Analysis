@@ -1,10 +1,10 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview
-This project analyzes a car manufacturing data (MechaCar) to determine the following:
+This project analyzes a car manufacturing data (MechaCar) using R to determine the following:
 
 -	A multiple linear regression analysis to predict the mpg of MechaCar vehecles
--	Determine the summary statistics on the pounds per square inch (PSI) of the suspension coils 
+-	Determine the summary statistics of pounds per square inch (PSI) of the suspension coils of  MechaCar vehecles
 -	Perform t-tests to determine if the manufacturing lots are statistically different from the mean population of the dataset provided 
 
 
