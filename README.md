@@ -1,7 +1,11 @@
 # MechaCar_Statistical_Analysis
 
 ## Overview
+This project analyzes a car manufacturing data (MechaCar) to determine the following:
 
+-	A multiple linear regression analysis to predict the mpg of MechaCar vehecles
+-	Determine the summary statistics on the pounds per square inch (PSI) of the suspension coils 
+-	Perform t-tests to determine if the manufacturing lots are statistically different from the mean population of the dataset provided 
 
 
 ## Results
@@ -65,32 +69,26 @@ The T test results reveals that the p value for all the lots is 0.06028. This is
 - --
 ## Study Design: MechaCar vs Competition.
 #### 1. What metric or metrics are you going to test?
-To compare the performance of the MechaCar vehicles against performance of vehicles from other manufacturers, a statistical study was done using the following metrics: 
+To compare the the fuel efficiency of MechaCar against the fuel efficiency of vehicles from other manufacturers, a statistical study was done using the following metrics:
 
-- Fuel efficiency,
+- Fuel efficiency
 - Carbon waste output.
-- Cost, 
+- Miles per gallon 
 - Engine horsepower, 
-- Safety rating, 
-- Car safety Features
+
 
 The analysis will test these metrics in both the Mechacar and vehicles from other manufacturers to determine if there are any statistically significant differences 
 
 ### 2. What is the null hypothesis or alternative hypothesis?
 
-- The null hypothesis: The analysis will show that the results don't vary significantly from other manufacturers in these metrics
-- Alternative hypothesis: The analysis will show that compared to vehicles from other manufacturers, the MechaCar varies significantly in these metrics
+- Null Hypothesis: Among the metrics tested, MechaCar is the most cost-effective car based on fuel efficiency compared to vehicles from other manufacturers.
+- Alternative hypothesis: MechaCar is not the most cost-effective car based on fuel efficiency compared to vehicles from other manufacturers.
 
 ### 3. What statistical test would you use to test the hypothesis? And why?
 
-- The statistical test that will be used to test the hypothesis is a one-tailed t-tests. This will show whether the MechaCar has higher or lower results in these metrics compared to vehicles from other manufacturers. 
+- The statistical test that will be used to test the hypothesis is a multiple linear regression. This will determine whether the MechaCar has higher or lower results in these metrics compared to vehicles from other manufacturers.
+
 .
 ### 4. What data is needed to run the statistical test?
-- To run these statistical tests, we would need the values of all the metrics in the analysis including Fuel efficiency, Carbon waste output. Cost, Engine horsepower, Safety rating and car safety features from both the MechaCar and vehicles from other manufacturers.
-
-
-
-
-
-
+- To run these statistical tests, we would need the values of all the metrics in the analysis including Fuel efficiency, Carbon waste output, Miles per gallon and Engine horsepower from both the MechaCar and vehicles from other manufacturers.
 
