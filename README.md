@@ -13,6 +13,7 @@ This project analyzes a car manufacturing data (MechaCar) using R to determine t
 ### 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 ![image](https://user-images.githubusercontent.com/90416094/150705141-291d7bbc-8bce-48dd-a828-fae5ea71a6c0.png)
+![image](https://user-images.githubusercontent.com/90416094/151731755-56148094-4adf-4b76-8f8b-2f2c2e56b692.png)
 
 #### The following variables/coefficients provided a non-random amount of variance to the mpg values:
 - vehicle weight(0.0776)
