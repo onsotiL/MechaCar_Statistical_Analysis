@@ -14,14 +14,6 @@ This project analyzes a car manufacturing data (MechaCar) using R to determine t
 
 ![image](https://user-images.githubusercontent.com/90416094/150705141-291d7bbc-8bce-48dd-a828-fae5ea71a6c0.png)
 
-#### The image above shows the variables/coefficents' p-values (Pr(>|t|)) are as follows:
-
-- vehicle length (2.60e-08)
-- vehicle weight(0.0776)
-- spoiler angle(0.3069)
-- ground clearance(5.21e-08)
-- AWD(All Wheel Drive)(0.1852)
-
 #### The following variables/coefficients provided a non-random amount of variance to the mpg values:
 - vehicle weight(0.0776)
 - spoiler angle(0.3069)
